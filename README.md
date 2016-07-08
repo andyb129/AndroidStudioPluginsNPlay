@@ -1,5 +1,5 @@
 # AndroidStudioPluginsNPlay
-A list of cool/useful Android studio plugins
+A list of cool/useful Android studio plugins (linked from my blog post <a href="">here</a>)
 
 ### Code Gen
 | Description | Link |
@@ -10,7 +10,7 @@ A list of cool/useful Android studio plugins
 | *OTTO class/method links in side bar* | https://github.com/square/otto-intellij-plugin | 
 | *M Permissions code generator* | https://github.com/shiraji/permissions-dispatcher-plugin | 
 | *Auto Value Generator* | https://plugins.jetbrains.com/plugin/8091?pr=idea | 
----
+
 ### Design
 | Description | Link |
 | --- | --- |
@@ -18,7 +18,8 @@ A list of cool/useful Android studio plugins
 | *Material Icons* | https://github.com/intrications/material-design-icons-adt-template | 
 | *Android drawable resources* | https://plugins.jetbrains.com/plugin/7658?pr=idea | 
 | *Svg converter 2 vectors* | https://github.com/Ashung/svg2vectordrawable | 
----
+| *Drawable optimiser* | https://github.com/fabiomsr/drawable-optimizer |
+
 ### Other
 | Description | Link |
 | --- | --- |
@@ -28,4 +29,6 @@ A list of cool/useful Android studio plugins
 | *Android WiFi ADB* | https://github.com/pedrovgs/AndroidWiFiADB  
 | *Proguard snippets* | https://github.com/hotchemi/gradle-proguard-plugin |  
 | *Dependancies Method counts* | http://www.methodscount.com/plugins |
+| *Activity Lifecycle method sorter* | https://plugins.jetbrains.com/plugin/7742?pr= |
+
 
