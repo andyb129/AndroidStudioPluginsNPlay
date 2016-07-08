@@ -2,7 +2,7 @@
 A list of cool/useful Android studio plugins
 
 Description | Link
---- | --- | ---
+--- | ---
 
 *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003
 
