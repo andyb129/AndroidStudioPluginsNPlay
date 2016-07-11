@@ -2,7 +2,7 @@
 
 <img src="images/android_studio_logo.jpeg" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/plugins.jpeg" height="100">
 
-A list of cool/useful Android studio plugins (linked from my blog post <a href="">here</a>)
+A list of cool/useful Android studio plugins (linked from my blog post <a href="http://barbuzz.co.uk/2016/07/11/plugin-play/">here</a>)
 
 ### Code Gen
 | Description | Link |
