@@ -1,6 +1,6 @@
 # AndroidStudioPluginsNPlay
 
-<img src="images/android_studio_logo.jpeg" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/android_studio_logo.jpeg" height="100">
+<img src="images/android_studio_logo.jpeg" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/plugins.jpeg" height="100">
 
 A list of cool/useful Android studio plugins (linked from my blog post <a href="">here</a>)
 
