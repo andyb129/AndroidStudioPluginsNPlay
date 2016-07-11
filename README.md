@@ -30,11 +30,13 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | Description | Link |
 | --- | --- |
 | *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003 |  
+| *Dependancies Method counts* | http://www.methodscount.com/plugins |
+| *Gradle dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | *ADB Idea (ABD Shortcuts)* | https://github.com/pbreault/adb-idea | 
 | *Android WiFi ADB* | https://github.com/pedrovgs/AndroidWiFiADB |
 | *Proguard snippets* | https://github.com/hotchemi/gradle-proguard-plugin |  
-| *Dependancies Method counts* | http://www.methodscount.com/plugins |
-| *Gradle dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | *Activity Lifecycle method sorter* | https://plugins.jetbrains.com/plugin/7742?pr= |
+| *EventBus methid navigator* | https://github.com/kgmyshin/eventbus3-intellij-plugin |
 | *Multi Markdown (markdown editor)* | https://github.com/vsch/idea-multimarkdown/wiki |
+
 
