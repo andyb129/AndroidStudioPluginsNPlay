@@ -9,11 +9,13 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | --- | --- |
 | *Parcelable Class Generator* | https://github.com/mcharmas/android-parcelable-intellij-plugin | 
 | *Butter knife code gen* | https://github.com/avast/android-butterknife-zelezny | 
+| *Butter knife removal!? * | https://github.com/u3shadow/RemoveButterKnife |
 | *GSON formatter* | https://github.com/zzz40500/GsonFormat | 
 | *OTTO class/method links in side bar* | https://github.com/square/otto-intellij-plugin | 
 | *M Permissions code generator* | https://github.com/shiraji/permissions-dispatcher-plugin | 
 | *Auto Value Generator* | https://plugins.jetbrains.com/plugin/8091?pr=idea | 
 | *Selector Chapek* (auto gen of drawable selectors) | https://github.com/inmite/android-selector-chapek |
+| *Android Studio Prettify (auto gen findViewById)* | https://github.com/Haehnchen/idea-android-studio-plugin |
 
 ### Design
 | Description | Link |
@@ -29,9 +31,10 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | --- | --- |
 | *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003 |  
 | *ADB Idea (ABD Shortcuts)* | https://github.com/pbreault/adb-idea | 
-| *Android WiFi ADB* | https://github.com/pedrovgs/AndroidWiFiADB  
+| *Android WiFi ADB* | https://github.com/pedrovgs/AndroidWiFiADB |
 | *Proguard snippets* | https://github.com/hotchemi/gradle-proguard-plugin |  
 | *Dependancies Method counts* | http://www.methodscount.com/plugins |
+| *Gradle dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | *Activity Lifecycle method sorter* | https://plugins.jetbrains.com/plugin/7742?pr= |
-
+| *Multi Markdown (markdown editor)* | https://github.com/vsch/idea-multimarkdown/wiki |
 
