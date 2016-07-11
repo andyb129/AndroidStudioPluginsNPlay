@@ -30,7 +30,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | Description | Link |
 | --- | --- |
 | *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003 |  
-| *Dependancies Method counts* | http://www.methodscount.com/plugins |
+| *Gradle Dependancies Method counts* | http://www.methodscount.com/plugins |
 | *Gradle dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | *ADB Idea (ABD Shortcuts)* | https://github.com/pbreault/adb-idea | 
 | *Android WiFi ADB* | https://github.com/pedrovgs/AndroidWiFiADB |
