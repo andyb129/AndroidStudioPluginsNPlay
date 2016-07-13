@@ -30,6 +30,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | Description | Link |
 | --- | --- |
 | *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003 |  
+| *Key Promoter* | https://plugins.jetbrains.com/plugin/4455 |  
 | *Gradle Dependancies Method counts* | http://www.methodscount.com/plugins |
 | *Gradle Dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | *ADB Idea (ABD Shortcuts)* | https://github.com/pbreault/adb-idea | 
@@ -39,5 +40,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *EventBus methid navigator* | https://github.com/kgmyshin/eventbus3-intellij-plugin |
 | *Material theme UI (IDE theming ~ might be unstable)* | https://github.com/ChrisRM/material-theme-jetbrains |
 | *Multi Markdown (markdown editor)* | https://github.com/vsch/idea-multimarkdown/wiki |
+| *String Maniplulation* | https://plugins.jetbrains.com/plugin/2162?pr=idea |
+| *Line Sorter* | https://plugins.jetbrains.com/plugin/5919?pr=clion |
 
 
