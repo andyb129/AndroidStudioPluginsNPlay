@@ -26,7 +26,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Svg converter 2 vectors* | https://github.com/Ashung/svg2vectordrawable | 
 | *Drawable optimiser* | https://github.com/fabiomsr/drawable-optimizer |
 
-### Other
+### Miscellaneous
 | Description | Link |
 | --- | --- |
 | *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003 |  
