@@ -1,4 +1,4 @@
-# AndroidStudioPluginsNPlay
+# Android Studio Plugins N Play
 
 <img src="images/android_studio_logo.jpeg" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/plugins.jpeg" height="100">
 
