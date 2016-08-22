@@ -42,5 +42,4 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Multi Markdown (markdown editor)* | https://github.com/vsch/idea-multimarkdown/wiki |
 | *String Maniplulation* | https://plugins.jetbrains.com/plugin/2162?pr=idea |
 | *Line Sorter* | https://plugins.jetbrains.com/plugin/5919?pr=clion |
-
-
+| *String Resource Search* | https://github.com/konifar/android-strings-search-plugin |
