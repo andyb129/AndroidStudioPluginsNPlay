@@ -15,7 +15,9 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *M Permissions code generator* | https://github.com/shiraji/permissions-dispatcher-plugin | 
 | *Auto Value Generator* | https://plugins.jetbrains.com/plugin/8091?pr=idea | 
 | *Selector Chapek* (auto gen of drawable selectors) | https://github.com/inmite/android-selector-chapek |
-| *Android Studio Prettify (auto gen findViewById)* | https://github.com/Haehnchen/idea-android-studio-plugin |
+| *Android Studio Prettify* (auto gen findViewById)* | https://github.com/Haehnchen/idea-android-studio-plugin |
+| *Activity CreateIntent Inspection* (auto gen Activity create method) | https://github.com/shiraji/create-intent-inspection |
+| *Fragment newInstance Inspection* (auto gen Fragment newInstatce method) | https://github.com/shiraji/new-instance-inspection |
 
 ### Design
 | Description | Link |
