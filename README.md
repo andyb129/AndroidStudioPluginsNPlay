@@ -18,6 +18,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Android Studio Prettify* (auto gen findViewById)* | https://github.com/Haehnchen/idea-android-studio-plugin |
 | *Activity CreateIntent Inspection* (auto gen Activity create method) | https://github.com/shiraji/create-intent-inspection |
 | *Fragment newInstance Inspection* (auto gen Fragment newInstatce method) | https://github.com/shiraji/new-instance-inspection |
+| *Android Studio Super Plugin* (7 useful plugins combined) | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
 
 ### Design
 | Description | Link |
@@ -45,3 +46,4 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *String Maniplulation* | https://plugins.jetbrains.com/plugin/2162?pr=idea |
 | *Line Sorter* | https://plugins.jetbrains.com/plugin/5919?pr=clion |
 | *String Resource Search* | https://github.com/konifar/android-strings-search-plugin |
+| *Dagger IntelliJ Plugin* (editor links for providers) | https://github.com/square/dagger-intellij-plugin |
