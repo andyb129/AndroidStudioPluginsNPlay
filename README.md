@@ -19,6 +19,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Activity CreateIntent Inspection* (auto gen Activity create method) | https://github.com/shiraji/create-intent-inspection |
 | *Fragment newInstance Inspection* (auto gen Fragment newInstatce method) | https://github.com/shiraji/new-instance-inspection |
 | *Android Studio Super Plugin* (7 useful plugins combined) | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
+| *Exynap* (generate lots of different code examples) | http://exynap.com/ |
 
 ### Design
 | Description | Link |
