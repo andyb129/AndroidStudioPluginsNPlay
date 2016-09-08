@@ -29,6 +29,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Android drawable resources* | https://plugins.jetbrains.com/plugin/7658?pr=idea | 
 | *Svg converter 2 vectors* | https://github.com/Ashung/svg2vectordrawable | 
 | *Drawable optimiser* | https://github.com/fabiomsr/drawable-optimizer |
+| *Color Manager (color info in xml window)* | https://github.com/shiraji/color-manager |
 
 ### Miscellaneous
 | Description | Link |
