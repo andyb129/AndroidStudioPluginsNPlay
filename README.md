@@ -20,6 +20,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Fragment newInstance Inspection* (auto gen Fragment newInstatce method) | https://github.com/shiraji/new-instance-inspection |
 | *Android Studio Super Plugin* (7 useful plugins combined) | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
 | *Exynap* (generate lots of different code examples) | http://exynap.com/ |
+| *JSON to POJO Converter* (Plain Old Java Object) | https://github.com/robohorse/RoboPOJOGenerator |
 
 ### Design
 | Description | Link |
