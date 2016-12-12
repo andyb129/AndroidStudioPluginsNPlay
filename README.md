@@ -36,6 +36,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | Description | Link |
 | --- | --- |
 | *Shortcut reminder* | https://plugins.jetbrains.com/plugin/1003 |  
+| *Presentation Assistant* (another shortcut reminder) | https://plugins.jetbrains.com/plugin/7345 |
 | *Key Promoter* | https://plugins.jetbrains.com/plugin/4455 |  
 | *Gradle Dependancies Method counts* | http://www.methodscount.com/plugins |
 | *Gradle Dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
@@ -51,3 +52,5 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *String Resource Search* | https://github.com/konifar/android-strings-search-plugin |
 | *Dagger IntelliJ Plugin* (editor links for providers) | https://github.com/square/dagger-intellij-plugin |
 | *Gradle Build Time Tracker* | https://github.com/passy/build-time-tracker-plugin |
+| *Presentation Assistant* | https://plugins.jetbrains.com/plugin/7345 |
+
