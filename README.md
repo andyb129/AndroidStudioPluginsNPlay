@@ -53,5 +53,4 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *String Resource Search* | https://github.com/konifar/android-strings-search-plugin |
 | *Dagger IntelliJ Plugin* (editor links for providers) | https://github.com/square/dagger-intellij-plugin |
 | *Gradle Build Time Tracker* | https://github.com/passy/build-time-tracker-plugin |
-| *Presentation Assistant* | https://plugins.jetbrains.com/plugin/7345 |
 
