@@ -22,6 +22,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Exynap* (generate lots of different code examples) | http://exynap.com/ |
 | *JSON to POJO Converter* (Plain Old Java Object) | https://github.com/robohorse/RoboPOJOGenerator |
 | *Data Buinding Support* (XML code gen) | https://github.com/shiraji/databinding-support |
+| *Thesaurus* (help to generate var names) | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
 
 ### Design
 | Description | Link |
