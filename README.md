@@ -42,7 +42,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *Key Promoter* | https://plugins.jetbrains.com/plugin/4455 |  
 | *Gradle Dependancies Method counts* | http://www.methodscount.com/plugins |
 | *Gradle Dependancies Helper (Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
-| *ADB Idea (ABD Shortcuts)* | https://github.com/pbreault/adb-idea | 
+| *ADB Idea (ADB Shortcuts - uninstall etc.)* | https://github.com/pbreault/adb-idea | 
 | *Android WiFi adb debug setup* | https://github.com/pedrovgs/AndroidWiFiADB |
 | *Proguard snippets* | https://github.com/hotchemi/gradle-proguard-plugin |  
 | *Activity Lifecycle method sorter* | https://plugins.jetbrains.com/plugin/7742?pr= |
@@ -54,4 +54,6 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *String Resource Search* | https://github.com/konifar/android-strings-search-plugin |
 | *Dagger IntelliJ Plugin* (editor links for providers) | https://github.com/square/dagger-intellij-plugin |
 | *Gradle Build Time Tracker* | https://github.com/passy/build-time-tracker-plugin |
+| *Checkstyle plugin (realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
+
 
