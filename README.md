@@ -46,7 +46,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Android WiFi adb debug setup** | https://github.com/pedrovgs/AndroidWiFiADB |
 | *vProguard snippets** | https://github.com/hotchemi/gradle-proguard-plugin |  
 | **Activity Lifecycle method sorter** | https://plugins.jetbrains.com/plugin/7742?pr= |
-| **EventBus methid navigator** | https://github.com/kgmyshin/eventbus3-intellij-plugin |
+| **EventBus method navigator** | https://github.com/kgmyshin/eventbus3-intellij-plugin |
 | **Material theme UI** *(IDE theming ~ might be unstable)* | https://github.com/ChrisRM/material-theme-jetbrains |
 | **Multi Markdown** *(markdown editor)* | https://github.com/vsch/idea-multimarkdown/wiki |
 | **String Maniplulation** | https://plugins.jetbrains.com/plugin/2162?pr=idea |
