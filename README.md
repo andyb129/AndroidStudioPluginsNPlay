@@ -55,5 +55,5 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | *vDagger IntelliJ Plugin* (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
-
+| **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
 
