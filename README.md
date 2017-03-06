@@ -18,10 +18,10 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Android Studio Prettify** *(auto gen findViewById)* | https://github.com/Haehnchen/idea-android-studio-plugin |
 | **Activity CreateIntent Inspection** *(auto gen Activity create method)* | https://github.com/shiraji/create-intent-inspection |
 | **Fragment newInstance Inspection** *(auto gen Fragment newInstatce method)* | https://github.com/shiraji/new-instance-inspection |
-| **Android Studio Super Plugin** v(7 useful plugins combined)* | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
+| **Android Studio Super Plugin** *(7 useful plugins combined)* | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
 | **Exynap** *(generate lots of different code examples)* | http://exynap.com/ |
-| **JSON to POJO Converter** v(Plain Old Java Object)* | https://github.com/robohorse/RoboPOJOGenerator |
-| **Data Buinding Support** (XML code gen)* | https://github.com/shiraji/databinding-support |
+| **JSON to POJO Converter** *(Plain Old Java Object)* | https://github.com/robohorse/RoboPOJOGenerator |
+| **Data Buinding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
 
 ### Design
@@ -32,7 +32,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Android drawable resources** | https://plugins.jetbrains.com/plugin/7658?pr=idea | 
 | **Svg converter 2 vectors** | https://github.com/Ashung/svg2vectordrawable | 
 | **Drawable optimiser** | https://github.com/fabiomsr/drawable-optimizer |
-| *vColor Manager** *(color info in xml window)* | https://github.com/shiraji/color-manager |
+| **Color Manager** *(color info in xml window)* | https://github.com/shiraji/color-manager |
 
 ### Miscellaneous
 | Description | Link |
@@ -52,7 +52,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **String Maniplulation** | https://plugins.jetbrains.com/plugin/2162?pr=idea |
 | **Line Sorter** | https://plugins.jetbrains.com/plugin/5919?pr=clion |
 | **String Resource Search** | https://github.com/konifar/android-strings-search-plugin |
-| **Dagger IntelliJ Plugin* (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
+| **Dagger IntelliJ Plugin** (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
