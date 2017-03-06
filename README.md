@@ -9,7 +9,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | --- | --- |
 | **Parcelable Class Generator** | https://github.com/mcharmas/android-parcelable-intellij-plugin | 
 | **Butter knife code gen** | https://github.com/avast/android-butterknife-zelezny | 
-| **Butter knife removal!?*v | https://github.com/u3shadow/RemoveButterKnife |
+| **Butter knife removal!?* | https://github.com/u3shadow/RemoveButterKnife |
 | **GSON formatter** | https://github.com/zzz40500/GsonFormat | 
 | **OTTO class/method links in side bar** | https://github.com/square/otto-intellij-plugin | 
 | **M Permissions code generator** | https://github.com/shiraji/permissions-dispatcher-plugin | 
