@@ -21,7 +21,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Android Studio Super Plugin** *(7 useful plugins combined)* | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
 | **Exynap** *(generate lots of different code examples)* | http://exynap.com/ |
 | **JSON to POJO Converter** *(Plain Old Java Object)* | https://github.com/robohorse/RoboPOJOGenerator |
-| **Data Buinding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
+| **Data Binding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
 
 ### Design
@@ -34,14 +34,20 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Drawable optimiser** | https://github.com/fabiomsr/drawable-optimizer |
 | **Color Manager** *(color info in xml window)* | https://github.com/shiraji/color-manager |
 
+### Gradle
+| Description | Link |
+| --- | --- |
+| **Gradle View** *(show dependancy hierarchy)*| https://github.com/rholder/gradle-view | 
+| **Gradle Dependancies Method counts** | http://www.methodscount.com/plugins |
+| **Gradle Dependancies Helper** *(Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
+| **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
+
 ### Miscellaneous
 | Description | Link |
 | --- | --- |
 | **Shortcut reminder** | https://plugins.jetbrains.com/plugin/1003 |  
 | **Presentation Assistant** *(another shortcut reminder)* | https://plugins.jetbrains.com/plugin/7345 |
 | **Key Promoter** | https://plugins.jetbrains.com/plugin/4455 |  
-| **Gradle Dependancies Method counts** | http://www.methodscount.com/plugins |
-| **Gradle Dependancies Helper** *(Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | **ADB Idea** *(ADB Shortcuts - uninstall etc.)* | https://github.com/pbreault/adb-idea | 
 | **Android WiFi adb debug setup** | https://github.com/pedrovgs/AndroidWiFiADB |
 | **Proguard snippets** | https://github.com/hotchemi/gradle-proguard-plugin |  
@@ -53,7 +59,6 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Line Sorter** | https://plugins.jetbrains.com/plugin/5919?pr=clion |
 | **String Resource Search** | https://github.com/konifar/android-strings-search-plugin |
 | **Dagger IntelliJ Plugin** (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
-| **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
 
