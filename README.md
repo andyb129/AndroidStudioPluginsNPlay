@@ -10,7 +10,8 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Parcelable Class Generator** | https://github.com/mcharmas/android-parcelable-intellij-plugin | 
 | **Butter knife code gen** | https://github.com/avast/android-butterknife-zelezny | 
 | **Butter knife removal!?** | https://github.com/u3shadow/RemoveButterKnife |
-| **GSON formatter** | https://github.com/zzz40500/GsonFormat | 
+| **Json2Java4Ide** *(convert json to model objects)* | https://github.com/t28hub/json2java4idea |
+| **GSON formatter** *(convert json to model objects - better ui)*| https://github.com/zzz40500/GsonFormat | 
 | **OTTO class/method links in side bar** | https://github.com/square/otto-intellij-plugin | 
 | **M Permissions code generator** | https://github.com/shiraji/permissions-dispatcher-plugin | 
 | **Auto Value Generator** | https://plugins.jetbrains.com/plugin/8091?pr=idea | 
@@ -23,6 +24,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **JSON to POJO Converter** *(Plain Old Java Object)* | https://github.com/robohorse/RoboPOJOGenerator |
 | **Data Binding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
+
 
 ### Design
 | Description | Link |
