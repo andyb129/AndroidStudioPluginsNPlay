@@ -24,7 +24,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **JSON to POJO Converter** *(Plain Old Java Object)* | https://github.com/robohorse/RoboPOJOGenerator |
 | **Data Binding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
-
+| **Advanced Code Folding** *(generates more readable code)* | https://plugins.jetbrains.com/plugin/9320-advanced-java-folding |
 
 ### Design
 | Description | Link |
