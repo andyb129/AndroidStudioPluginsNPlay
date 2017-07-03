@@ -25,6 +25,8 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Data Binding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
 | **Advanced Code Folding** *(generates more readable code)* | https://plugins.jetbrains.com/plugin/9320-advanced-java-folding |
+| **OkHttpParamsGet** *(generates OKHttp params)* | https://github.com/kingwang666/OkHttpParamsGet |
+
 
 ### Design
 | Description | Link |
