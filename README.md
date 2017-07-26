@@ -12,6 +12,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Butter knife removal!?** | https://github.com/u3shadow/RemoveButterKnife |
 | **Json2Java4Ide** *(convert json to model objects)* | https://github.com/t28hub/json2java4idea |
 | **GSON formatter** *(convert json to model objects - better ui)*| https://github.com/zzz40500/GsonFormat | 
+| **Awesome POJO Generator** *(convert json to model objects)*| https://github.com/jineshfrancs/AwesomePojoGenerator | 
 | **OTTO class/method links in side bar** | https://github.com/square/otto-intellij-plugin | 
 | **M Permissions code generator** | https://github.com/shiraji/permissions-dispatcher-plugin | 
 | **Auto Value Generator** | https://plugins.jetbrains.com/plugin/8091?pr=idea | 
