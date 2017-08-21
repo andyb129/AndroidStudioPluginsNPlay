@@ -27,6 +27,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
 | **Advanced Code Folding** *(generates more readable code)* | https://plugins.jetbrains.com/plugin/9320-advanced-java-folding |
 | **OkHttpParamsGet** *(generates OKHttp params)* | https://github.com/kingwang666/OkHttpParamsGet |
+| **RxJava postfix completion** *(generates RxJava with AS postfix feature)* | https://plugins.jetbrains.com/plugin/9455-rxjava-postfix-plugin |
 
 ### Design
 | Description | Link |
@@ -66,6 +67,3 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Dagger IntelliJ Plugin** (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
-| **Java stream debugger** *(RxJava stream data debug window)* | https://plugins.jetbrains.com/plugin/9696-java-stream-debugger |
-
-
