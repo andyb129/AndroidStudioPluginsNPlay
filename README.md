@@ -28,7 +28,6 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Advanced Code Folding** *(generates more readable code)* | https://plugins.jetbrains.com/plugin/9320-advanced-java-folding |
 | **OkHttpParamsGet** *(generates OKHttp params)* | https://github.com/kingwang666/OkHttpParamsGet |
 
-
 ### Design
 | Description | Link |
 | --- | --- |
@@ -38,6 +37,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Svg converter 2 vectors** | https://github.com/Ashung/svg2vectordrawable | 
 | **Drawable optimiser** | https://github.com/fabiomsr/drawable-optimizer |
 | **Color Manager** *(color info in xml window)* | https://github.com/shiraji/color-manager |
+| **Dr Vector** *(correct float numbers)* | https://plugins.jetbrains.com/plugin/9937-dr-vector-android |
 
 ### Gradle
 | Description | Link |
@@ -66,4 +66,6 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Dagger IntelliJ Plugin** (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
+| **Java stream debugger** *(RxJava stream data debug window)* | https://plugins.jetbrains.com/plugin/9696-java-stream-debugger |
+
 
