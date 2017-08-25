@@ -67,3 +67,8 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Dagger IntelliJ Plugin** (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
+
+## Fun :-)
+| Description | Link |
+| --- | --- |
+| **Nyan progress bar** *(give progress some color!)* | https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar |
