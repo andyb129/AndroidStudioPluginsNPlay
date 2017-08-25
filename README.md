@@ -64,7 +64,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **String Maniplulation** | https://plugins.jetbrains.com/plugin/2162?pr=idea |
 | **Line Sorter** | https://plugins.jetbrains.com/plugin/5919?pr=clion |
 | **String Resource Search** | https://github.com/konifar/android-strings-search-plugin |
-| **Dagger IntelliJ Plugin** (editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
+| **Dagger IntelliJ Plugin** *(editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
 
