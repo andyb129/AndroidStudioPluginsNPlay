@@ -72,3 +72,5 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | Description | Link |
 | --- | --- |
 | **Nyan progress bar** *(give progress some colour!)* | https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar |
+| **Power Mode 2** *(fire & sparks when you type!)* | https://plugins.jetbrains.com/plugin/8251-power-mode-ii |
+
