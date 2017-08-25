@@ -71,4 +71,4 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 ## Fun :-)
 | Description | Link |
 | --- | --- |
-| **Nyan progress bar** *(give progress some color!)* | https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar |
+| **Nyan progress bar** *(give progress some colour!)* | https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar |
