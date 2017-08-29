@@ -67,6 +67,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Dagger IntelliJ Plugin** *(editor links for providers)* | https://github.com/square/dagger-intellij-plugin |
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
+| **Path title** *(full class path in title bar)* | https://plugins.jetbrains.com/plugin/9975-path-title |
 
 ## Fun :-)
 | Description | Link |
