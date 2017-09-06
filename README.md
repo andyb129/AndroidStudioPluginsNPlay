@@ -23,11 +23,13 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Android Studio Super Plugin** *(7 useful plugins combined)* | https://github.com/b2b2244424/AndroidStudioSuperPlugin |
 | **Exynap** *(generate lots of different code examples)* | http://exynap.com/ |
 | **JSON to POJO Converter** *(Plain Old Java Object)* | https://github.com/robohorse/RoboPOJOGenerator |
+| **DTOnator** *(another POJO creator with static inner classes)* | https://github.com/nvinayshetty/DTOnator |
 | **Data Binding Support** *(XML code gen)* | https://github.com/shiraji/databinding-support |
 | **Thesaurus** *(help to generate var names)* | https://plugins.jetbrains.com/androidstudio/plugin/7199-thesaurus |
 | **Advanced Code Folding** *(generates more readable code)* | https://plugins.jetbrains.com/plugin/9320-advanced-java-folding |
 | **OkHttpParamsGet** *(generates OKHttp params)* | https://github.com/kingwang666/OkHttpParamsGet |
 | **RxJava postfix completion** *(generates RxJava with AS postfix feature)* | https://plugins.jetbrains.com/plugin/9455-rxjava-postfix-plugin |
+| **Generate MVP code** *(generates MVP with Dagger2/Rx2/Retrofit)* | https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code |
 
 ### Design
 | Description | Link |
@@ -68,6 +70,13 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Checkstyle plugin** *(realtime feedback)* | https://github.com/jshiell/checkstyle-idea |
 | **Instapk** *(upload apk to slack)* | https://instapk.com/download_plugin.html |
 | **Path title** *(full class path in title bar)* | https://plugins.jetbrains.com/plugin/9975-path-title |
+| **Code glance** *(code overview pane)* | https://github.com/Vektah/CodeGlance |
+| **JVM Memory View** *(monitor objects in memory)* | https://plugins.jetbrains.com/plugin/8537-jvm-debugger-memory-view |
+| **Resource Usage Count** | https://github.com/niorgai/Android-Resource-Usage-Count |
+| **Biu** *(Compress PNG's)* | https://plugins.jetbrains.com/plugin/9788-biu |
+| **Idea gitignore** *(Generate .gitignore files)* | https://github.com/hsz/idea-gitignore |
+| **Android Localizer** *(Translate files with Microsoft Translate)* | https://github.com/westlinkin/AndroidLocalizationer |
+| **Folding plugin** *(Puts files in virtual folders)* | https://github.com/dmytrodanylyk/folding-plugin |
 
 ## Fun :-)
 | Description | Link |
