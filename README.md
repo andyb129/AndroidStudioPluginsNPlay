@@ -77,6 +77,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Idea gitignore** *(Generate .gitignore files)* | https://github.com/hsz/idea-gitignore |
 | **Android Localizer** *(Translate files with Microsoft Translate)* | https://github.com/westlinkin/AndroidLocalizationer |
 | **Folding plugin** *(Puts files in virtual folders)* | https://github.com/dmytrodanylyk/folding-plugin |
+| **FindBugs idea** *(FindBugs issues in IDE)* | https://plugins.jetbrains.com/plugin/3847-findbugs-idea |
 
 ## Fun :-)
 | Description | Link |
