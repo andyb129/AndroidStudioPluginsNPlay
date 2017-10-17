@@ -50,7 +50,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Gradle Dependancies Method counts** | http://www.methodscount.com/plugins |
 | **Gradle Dependancies Helper** *(Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
-| **OK Gradle** (dependancy lookup) | https://plugins.jetbrains.com/plugin/10102-ok-gradle- |
+| **OK Gradle** *(dependancy lookup)* | https://plugins.jetbrains.com/plugin/10102-ok-gradle- |
 
 ### Miscellaneous
 | Description | Link |
