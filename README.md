@@ -13,6 +13,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Json2Java4Ide** *(convert json to model objects)* | https://github.com/t28hub/json2java4idea |
 | **GSON formatter** *(convert json to model objects - better ui)*| https://github.com/zzz40500/GsonFormat | 
 | **Awesome POJO Generator** *(convert json to model objects)*| https://github.com/jineshfrancs/AwesomePojoGenerator | 
+| **RoboPOJOGenerator** *(convert json to model objects)*| https://github.com/robohorse/RoboPOJOGenerator | 
 | **OTTO class/method links in side bar** | https://github.com/square/otto-intellij-plugin | 
 | **M Permissions code generator** | https://github.com/shiraji/permissions-dispatcher-plugin | 
 | **Auto Value Generator** | https://plugins.jetbrains.com/plugin/8091?pr=idea | 
@@ -31,6 +32,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **RxJava postfix completion** *(generates RxJava with AS postfix feature)* | https://plugins.jetbrains.com/plugin/9455-rxjava-postfix-plugin |
 | **Generate MVP code** *(generates MVP with Dagger2/Rx2/Retrofit)* | https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code |
 | **JsonToKotlinClass** *(generates models in kotlin from json)* | https://github.com/wuseal/JsonToKotlinClass |
+| **Droid-Snippet** *(inserts useful util methods)* | https://github.com/KingsMentor/Droid-Snippet |
 
 ### Design
 | Description | Link |
