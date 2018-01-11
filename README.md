@@ -54,6 +54,12 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
 | **OK Gradle** *(dependancy lookup)* | https://plugins.jetbrains.com/plugin/10102-ok-gradle- |
 
+### Kotlin
+| Description | Link |
+| --- | --- |
+| **Edu tools** *(kotlin koans)*| https://plugins.jetbrains.com/plugin/10081-edutools | 
+| **Kotlin variable completion** *(autocomplete)*| https://github.com/bassaer/kotlin-variable-completion-plugin | 
+
 ### Miscellaneous
 | Description | Link |
 | --- | --- |
