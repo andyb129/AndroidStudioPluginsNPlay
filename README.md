@@ -44,6 +44,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Drawable optimiser** | https://github.com/fabiomsr/drawable-optimizer |
 | **Color Manager** *(color info in xml window)* | https://github.com/shiraji/color-manager |
 | **Dr Vector** *(correct float numbers)* | https://plugins.jetbrains.com/plugin/9937-dr-vector-android |
+| **Android Drawable Importer** *(import image into different densities)* | https://plugins.jetbrains.com/plugin/7658-android-drawable-importer |
 
 ### Gradle
 | Description | Link |
