@@ -33,6 +33,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Generate MVP code** *(generates MVP with Dagger2/Rx2/Retrofit)* | https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code |
 | **JsonToKotlinClass** *(generates models in kotlin from json)* | https://github.com/wuseal/JsonToKotlinClass |
 | **Droid-Snippet** *(inserts useful util methods)* | https://github.com/KingsMentor/Droid-Snippet |
+| **Clean Architecture Plugin** *(generates app structure from template)* | https://github.com/alvaromarco/CleanArchitecturePlugin |
 
 ### Design
 | Description | Link |
