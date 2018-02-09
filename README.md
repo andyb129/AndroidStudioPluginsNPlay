@@ -34,6 +34,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **JsonToKotlinClass** *(generates models in kotlin from json)* | https://github.com/wuseal/JsonToKotlinClass |
 | **Droid-Snippet** *(inserts useful util methods)* | https://github.com/KingsMentor/Droid-Snippet |
 | **Clean Architecture Plugin** *(generates app structure from template)* | https://github.com/alvaromarco/CleanArchitecturePlugin |
+| **Name that colour** *(pastes in colour in clipboard in color.xml)* | http://plugins.jetbrains.com/plugin/10422-name-that-color |
 
 ### Design
 | Description | Link |
