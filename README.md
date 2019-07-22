@@ -66,6 +66,8 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Edu tools** *(kotlin koans)*| https://plugins.jetbrains.com/plugin/10081-edutools | 
 | **Kotlin variable completion** *(autocomplete)*| https://github.com/bassaer/kotlin-variable-completion-plugin | 
 | **JsonToKotlinClass** *(generates models in kotlin from json)* | https://github.com/wuseal/JsonToKotlinClass |
+| **Multiple Korlin converter** *(convert multiple files)*| https://plugins.jetbrains.com/plugin/12183-multiple-file-kotlin-converter | 
+| **Protien** *(kotlin code gen for retrofit via swagger)*| https://plugins.jetbrains.com/plugin/10206-protein--kotlin-code-generator-for-retrofit2-and-rxjava2-based-on-swagger | 
 
 ### Miscellaneous
 | Description | Link |
@@ -106,5 +108,6 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | --- | --- |
 | **Nyan progress bar** *(give progress some colour!)* | https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar |
 | **Rainbow brackets** *(colourful brackets)* | https://plugins.jetbrains.com/plugin/10080-rainbow-brackets |
+| **Emoji support** *(add to commits and markdown :-)* | https://github.com/shiraji/emoji |
 | **Power Mode 2** *(fire & sparks when you type!)* | https://plugins.jetbrains.com/plugin/8251-power-mode-ii |
 
