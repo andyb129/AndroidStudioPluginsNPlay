@@ -73,7 +73,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Shortcut reminder** | https://plugins.jetbrains.com/plugin/1003 |  
 | **Presentation Assistant** *(another shortcut reminder)* | https://plugins.jetbrains.com/plugin/7345 |
 | **Key Promoter** | https://plugins.jetbrains.com/plugin/4455 |  
-| **Key Promoter X (more stats than above version)** | https://plugins.jetbrains.com/plugin/9792-key-promoter-x |  
+| **Key Promoter X** *(more stats than above version)* | https://plugins.jetbrains.com/plugin/9792-key-promoter-x |  
 | **ADB Idea** *(ADB Shortcuts - uninstall etc.)* | https://github.com/pbreault/adb-idea | 
 | **Android WiFi adb debug setup** | https://github.com/pedrovgs/AndroidWiFiADB |
 | **Proguard snippets** | https://github.com/hotchemi/gradle-proguard-plugin |  
