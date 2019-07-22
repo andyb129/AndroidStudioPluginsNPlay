@@ -48,6 +48,8 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Color Manager** *(color info in xml window)* | https://github.com/shiraji/color-manager |
 | **Dr Vector** *(correct float numbers)* | https://plugins.jetbrains.com/plugin/9937-dr-vector-android |
 | **Android Drawable Importer** *(import image into different densities)* | https://plugins.jetbrains.com/plugin/7658-android-drawable-importer |
+| **Vector drawable thumbnails** *(lists all vectors in project)* | https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails |
+| **Drawable preview** *(tree view previews)* | https://github.com/mistamek/Android-drawable-preview-plugin |
 
 ### Gradle
 | Description | Link |
@@ -56,7 +58,8 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Gradle Dependancies Method counts** | http://www.methodscount.com/plugins |
 | **Gradle Dependancies Helper** *(Auto complete)* | https://github.com/ligi/GradleDependenciesHelperPlugin | 
 | **Gradle Build Time Tracker** | https://github.com/passy/build-time-tracker-plugin |
-| **OK Gradle** *(dependancy lookup)* | https://plugins.jetbrains.com/plugin/10102-ok-gradle- |
+| **OK Gradle** *(dependancy lookup)* | https://plugins.jetbrains.com/plugin/10102-ok-gradle |
+| **Clear Gradle cache** | https://github.com/harisudhan7889/ClearCachePlugin |
 
 ### Kotlin
 | Description | Link |
@@ -70,6 +73,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Shortcut reminder** | https://plugins.jetbrains.com/plugin/1003 |  
 | **Presentation Assistant** *(another shortcut reminder)* | https://plugins.jetbrains.com/plugin/7345 |
 | **Key Promoter** | https://plugins.jetbrains.com/plugin/4455 |  
+| **Key Promoter X (more stats than above version)** | https://plugins.jetbrains.com/plugin/9792-key-promoter-x |  
 | **ADB Idea** *(ADB Shortcuts - uninstall etc.)* | https://github.com/pbreault/adb-idea | 
 | **Android WiFi adb debug setup** | https://github.com/pedrovgs/AndroidWiFiADB |
 | **Proguard snippets** | https://github.com/hotchemi/gradle-proguard-plugin |  
@@ -92,10 +96,15 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Android Localizer** *(Translate files with Microsoft Translate)* | https://github.com/westlinkin/AndroidLocalizationer |
 | **Folding plugin** *(Puts files in virtual folders)* | https://github.com/dmytrodanylyk/folding-plugin |
 | **FindBugs idea** *(FindBugs issues in IDE)* | https://plugins.jetbrains.com/plugin/3847-findbugs-idea |
+| **Wakatime** *(coding time metrics)* | https://wakatime.com/features |
+| **Catdea** *(clickable logcat log links)* | https://github.com/Cybr0sis/Catdea |
+| **CPU usage** *(IDE usage indicator)* | https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator/ |
+
 
 ## Fun :-)
 | Description | Link |
 | --- | --- |
 | **Nyan progress bar** *(give progress some colour!)* | https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar |
+| **Rainbow brackets** *(colourful brackets)* | https://plugins.jetbrains.com/plugin/10080-rainbow-brackets |
 | **Power Mode 2** *(fire & sparks when you type!)* | https://plugins.jetbrains.com/plugin/8251-power-mode-ii |
 
