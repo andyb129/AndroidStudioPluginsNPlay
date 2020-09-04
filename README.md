@@ -34,6 +34,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Droid-Snippet** *(inserts useful util methods)* | https://github.com/KingsMentor/Droid-Snippet |
 | **Clean Architecture Plugin** *(generates app structure from template)* | https://github.com/alvaromarco/CleanArchitecturePlugin |
 | **Name that colour** *(pastes in colour in clipboard in color.xml)* | http://plugins.jetbrains.com/plugin/10422-name-that-color |
+| **Kotlin Data Class to SharedPreferences** *(generates code for SharedPreferences from a Kotlin data class)* | https://plugins.jetbrains.com/plugin/14970-kotlin-data-class-to-sharedpreferences/ |
 
 ### Design
 | Description | Link |
