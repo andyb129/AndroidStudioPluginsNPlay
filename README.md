@@ -102,6 +102,7 @@ A list of cool/useful Android studio plugins (linked from my blog post <a href="
 | **Wakatime** *(coding time metrics)* | https://wakatime.com/features |
 | **Catdea** *(clickable logcat log links)* | https://github.com/Cybr0sis/Catdea |
 | **CPU usage** *(IDE usage indicator)* | https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator/ |
+| **Build Webhook Notifier** *(Call a webhook on build start, error, and success)* | https://github.com/hbmartin/intellij-build-webhook-notifier |
 
 
 ## Fun :-)
